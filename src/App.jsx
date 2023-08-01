@@ -4,7 +4,6 @@ import { AuthProvider } from './context/auth';
 import Home from './components/Home/Home';
 import Signup from './components/Signup/Signup';
 import PublicRoute from './routes/PublicRoute';
-import PrivateRoute from './routes/PrivateRoute';
 import Signin from './components/Signin/Signin';
 
 const App = () => {
