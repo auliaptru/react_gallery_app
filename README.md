@@ -5,4 +5,4 @@ Before users can upload images, they are required to Sign-in first. If they don'
 
 The purpose of creating this Gallery App was to learn how to implement Firebase for authentication and file storage!
 
-![gallery-app](https://github.com/auliaptru/react_gallery_app/assets/102896996/3eb80da2-ee33-424e-90cc-9b9a3aa162a9)
+![galleryapp](https://github.com/auliaptru/react_gallery_app/assets/102896996/94911b5c-03be-4fe0-8bb5-212595d5cf9d)
